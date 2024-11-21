@@ -5,6 +5,7 @@ import com.foc.Globals;
 import com.foc.util.Encryptor;
 
 public class FocLoginAccess {
+	//test
 	private FocUser user        = null;
 	private int     loginStatus = Application.LOGIN_WRONG;
 	
